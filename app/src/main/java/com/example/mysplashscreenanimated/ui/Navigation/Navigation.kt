@@ -27,7 +27,7 @@ fun Navigation() {
                 contentAlignment = Alignment.Center){
                 Text(
                     text = "MAIN SCREEN",
-                    color = Color.White
+                    color = Color.Black
                 )
             }
         }
