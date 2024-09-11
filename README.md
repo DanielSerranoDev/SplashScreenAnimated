@@ -19,12 +19,3 @@ Asegúrate de tener la dependencia correcta en tu archivo build.gradle:
 
 ## 2. Archivo JSON
 Coloca tu archivo JSON en la carpeta res/raw, si no debes crearla.
-
-
-dependencies {
-    implementation("com.airbnb.android:lottie-compose:6.0.1") // Usa la versión más reciente si es necesario
-}
-
-  
-
-Proximamente nuevas pantallas y herramientas.
