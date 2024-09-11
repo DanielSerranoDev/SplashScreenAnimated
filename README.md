@@ -1,7 +1,7 @@
 
 # SplashScreenAnimated
 
-  <img src="https://github.com/user-attachments/assets/77153d58-7648-4e86-8318-97f27f517825" alt="image" style="width: 230px; height: 500px;" />
+  <img src="https://github.com/user-attachments/assets/667b2ee3-1cea-41f1-bd0a-1c52c88b124f" alt="image" style="width: 230px; height: 500px;" />
 
 
 # Introducción
